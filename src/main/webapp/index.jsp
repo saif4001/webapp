@@ -68,7 +68,7 @@ Anyone needs *Training/Marketing* in IT for DevOps, AWS, Java/UI, Networking, Ha
         </div>
         <div class="col-md-4">
             <h2>About Employer</h2>
-            <p> We market for OPT/CPT/H1/GC status’s with rates above the market rate as of today <br> We are targeting to hit the projects with *MNC’s* with the latest technologies coming in future so this is a huge plus for someone who is interested in achieving something new!! </p>
+            <p> We market for OPT/CPT/H1/GC status’s with rates above the market rate as of today <br> We ensure everyone gets the good pay rate and good work experience <br> We are targeting to hit the projects with *MNC’s* with the latest technologies coming in future so this is a huge plus for someone who is interested in achieving something new!! </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
