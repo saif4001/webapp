@@ -53,7 +53,7 @@
     <div class="container">
         <h1>MagTech-VA</h1>
         <p>Hi Everyone,
-Anyone needs *Training/Marketing* in IT for DevOps, AWS, Java/UI, Networking, Hadoop, Salesforce, RPA, Ping Identity Access Management, .NET, AEM, Data Science/AI, Mobile Applications, & *New Technologies like Kotlin, GO, RSA* let us know, we are open to take candidates 365 days.</p>
+Anyone needs *Training/Marketing* in IT for DevOps, AWS, Java/UI, Networking, Hadoop, Salesforce, RPA, Ping Identity Access Management, .NET, AEM, Data Science/AI, Mobile Applications, & *New Technologies like Kotlin, GO, RSA* let us know, we are open to take candidates 364 days.</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
