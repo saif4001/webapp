@@ -1,5 +1,5 @@
 provider "google" {
-    credentials = "${file("uhsouomdncndn cnksanscsjgoejfi")}"
+    credentials = "${file("uhsd dfd dfdc edd ouomdncndn cnksanscsjgoejfi")}"
 
   
 }
